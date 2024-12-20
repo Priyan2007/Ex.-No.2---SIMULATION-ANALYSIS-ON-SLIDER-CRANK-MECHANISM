@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE:21-10-2024
 
@@ -41,7 +41,7 @@
 ![image](https://github.com/user-attachments/assets/a1890c94-6cb0-4865-b4eb-489fa8265d2a)
 ![image](https://github.com/user-attachments/assets/88206f3a-fa52-4b27-9c16-a4309fb69319)
 
-### Name:Priyan V
+### Name:PRIYAN
 ### Register Number:24000051
 
 ## RESULT:
